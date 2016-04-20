@@ -1,3 +1,4 @@
 
 
-    ÉÏ´«£º Git GUI here ------> Commit-----Push
+    up: Git GUI here ------> Commit-----Push
+    Download:  Remote------>Fetch from-->project Name--->  Merge---->Local Merge-----Commit---->Push
