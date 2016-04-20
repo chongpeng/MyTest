@@ -2,3 +2,5 @@
 
     up: Git GUI here ------> Commit-----Push
     Download:  Remote------>Fetch from-->project Name--->  Merge---->Local Merge-----Commit---->Push
+    
+    conflict:   right Click ---->use local ....
